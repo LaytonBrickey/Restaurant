@@ -1,0 +1,80 @@
+.container {
+  background-color: lightgrey;
+  padding-bottom: 100px;
+}
+.box-one{
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.box-two{
+  text-align: left;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+h1{
+  text-align: center;
+  font-size: 45px;
+  margin-bottom: 10px;
+
+}
+
+h2{
+  text-align: center;
+  font-size: 30px;
+  background-color: lightgrey;
+  margin-top: auto;
+  margin-bottom: 5px;
+}
+div{
+  text-align: center;
+}
+h3{
+  background-color: lightgrey;
+  font-size: 50px;
+  font-family: times;
+  background-size: 100px;
+  padding-top: 150px;
+  margin-bottom: auto;
+  margin-top: auto;
+
+}
+h4{
+  font-size: 20px;
+  margin-top: auto;
+  background-color: lightgrey;
+  padding-bottom: 50px;
+
+}
+p{
+  font-size: 20px;
+}
+
+h5{
+  font-size: 60px;
+  text-align: left;
+  padding-bottom: 50px;
+  padding-top: 10px;
+  padding-left: 100px;
+  margin-top: auto;
+}
+
+.container2{
+  background-color: lightgrey;
+
+}
+
+h6{
+  font-size: 40px;
+  margin-bottom: 20px;
+  margin-top: 30px;
+
+}
+b{
+  font-size: 40px;
+  text-align: center;
+  padding-left: 500px;
+  margin-bottom: 100px;
+
+}
